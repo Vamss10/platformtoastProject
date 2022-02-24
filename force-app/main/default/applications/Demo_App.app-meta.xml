@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomApplication xmlns="http://soap.sforce.com/2006/04/metadata">
+    <brand>
+        <headerColor>#0070D2</headerColor>
+        <shouldOverrideOrgTheme>false</shouldOverrideOrgTheme>
+    </brand>
+    <formFactors>Small</formFactors>
+    <formFactors>Large</formFactors>
+    <isNavAutoTempTabsDisabled>true</isNavAutoTempTabsDisabled>
+    <isNavPersonalizationDisabled>false</isNavPersonalizationDisabled>
+    <label>Demo App</label>
+    <navType>Standard</navType>
+    <setupExperience>all</setupExperience>
+    <tabs>standard-Account</tabs>
+    <tabs>standard-Award</tabs>
+    <tabs>Bank_Account__c</tabs>
+    <tabs>Student__c</tabs>
+    <tabs>Branch__c</tabs>
+    <tabs>Hostel__c</tabs>
+    <tabs>Hostel_Allotment__c</tabs>
+    <tabs>Transport__c</tabs>
+    <tabs>Transport_Allotment__c</tabs>
+    <tabs>Banking_Center_Holiday__c</tabs>
+    <tabs>Applicant__c</tabs>
+    <uiType>Lightning</uiType>
+    <utilityBar>Demo_App_UtilityBar</utilityBar>
+</CustomApplication>
