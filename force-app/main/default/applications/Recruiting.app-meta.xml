@@ -20,7 +20,5 @@
     <tabs>Review__c</tabs>
     <tabs>Job_Posting_Site__c</tabs>
     <tabs>standard-report</tabs>
-    <tabs>standard-Dashboard</tabs>
-    <tabs>standard-Feed</tabs>
     <uiType>Lightning</uiType>
 </CustomApplication>
